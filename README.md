@@ -4,15 +4,17 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 First, run the development server:
 
-```bash
+git init to get the dependencies installed
+
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
+.env setup for mongo url
 ```
+
+i used daisy ui for frontend styling and zob lib for the validation and mongodb data storage and the crup operation api purpose.
+
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
